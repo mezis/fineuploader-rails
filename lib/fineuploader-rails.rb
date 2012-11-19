@@ -1,6 +1,6 @@
-require "fileuploader-rails/version"
+require "fineuploader-rails/version"
 
-module Fileuploader
+module Fineuploader
   module Rails
     class Engine < ::Rails::Engine
     end
