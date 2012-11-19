@@ -13,8 +13,6 @@ Gem::Specification.new do |s|
   s.summary     = %q{Fine Uploader plugin for Rails 3.1 Asset Pipeline}
   s.description = %q{Fine Uploader by Andrew Valums integrated for Rails 3.1 Asset Pipeline}
 
-  s.rubyforge_project = "fineuploader-rails"
-
   s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
   s.require_paths = ["lib"]
 
