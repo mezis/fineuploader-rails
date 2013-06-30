@@ -4,6 +4,10 @@
 
 This gem integrates this fantastic plugin with Rails 3.1 Asset Pipeline.
 
+**LICENCE CAVEAT**: this version of FineUploader is the last one released under the MIT and LGPL licences.
+If you're using it for a commercial project, either stick to this version (patches welcome) or
+upgrade to 3.3.1+ and head to the [upstream repo](http://github.com/Widen/fine-uploader) to obtain a paid licence.
+
 ## Installing Gem
 
     gem 'fineuploader-rails', '~> 3.3'
